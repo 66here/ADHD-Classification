@@ -14,7 +14,7 @@ Diagnosis ADHD sering kali sulit karena gejalanya menyerupai gangguan lain. Deng
 3. Menangani ketidakseimbangan kelas (class imbalance) dengan teknik Random Undersampling (RUS).
 
 🧮 Dataset
-Sumber: National Survey of Children’s Health (NSCH) 2023
+Sumber: National Survey of Children’s Health (NSCH) 2023 (https://drive.google.com/file/d/1Pgzb4a-bxu51zBeOqrOP1Im8SLkZP48P/view?usp=drive_link)
 Jenis data: Tabular data
 Target: Status ADHD (terdiagnosis / tidak terdiagnosis)
 Teknik penanganan imbalance: Random Undersampling dengan rasio 0.3, 0.5, dan 0.7
