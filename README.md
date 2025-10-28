@@ -1,19 +1,19 @@
 🧠 Klasifikasi ADHD Menggunakan Random Forest dan XGBoost
 
-#📋 Deskripsi Singkat
+📋 Deskripsi Singkat
 Proyek ini merupakan bagian dari skripsi yang bertujuan untuk mengklasifikasikan Attention Deficit Hyperactivity Disorder (ADHD) menggunakan algoritma Random Forest (RF) dan Extreme Gradient Boosting (XGBoost).
 Penelitian ini memanfaatkan data dari National Survey of Children’s Health (NSCH) 2023 dan mengevaluasi performa kedua model dalam mendeteksi ADHD berdasarkan berbagai indikator kesehatan anak.
 
-#🎯 Latar Belakang
+🎯 Latar Belakang
 Attention Deficit Hyperactivity Disorder (ADHD) adalah gangguan neurologis yang memengaruhi kemampuan seseorang untuk memusatkan perhatian, mengendalikan impuls, dan mengatur aktivitas.
 Diagnosis ADHD sering kali sulit karena gejalanya menyerupai gangguan lain. Dengan kemajuan machine learning, deteksi dini ADHD dapat dilakukan lebih efisien dan akurat.
 
-#🧩 Tujuan Penelitian
+🧩 Tujuan Penelitian
 1. Melakukan klasifikasi ADHD menggunakan algoritma Random Forest dan XGBoost.
 2. Membandingkan performa kedua algoritma berdasarkan metrik evaluasi.
 3. Menangani ketidakseimbangan kelas (class imbalance) dengan teknik Random Undersampling (RUS).
 
-#🧮 Dataset
+🧮 Dataset
 Sumber: National Survey of Children’s Health (NSCH) 2023
 Jenis data: Tabular data
 Target: Status ADHD (terdiagnosis / tidak terdiagnosis)
